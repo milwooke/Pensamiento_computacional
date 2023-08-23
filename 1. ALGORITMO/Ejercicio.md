@@ -11,7 +11,13 @@ final
 
 ### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
-    TU RESPUESTA AQUI
+ 1 inicio
+ 2 declarar, año de nacimiento, año actual, edad
+ 3 asignar año nacimiento = 2010
+ 4 asignar año actual = 2023
+ 5 año actual - año de nacimiento
+ 6 mostrar edad 
+ 7 fin
 
 
 
