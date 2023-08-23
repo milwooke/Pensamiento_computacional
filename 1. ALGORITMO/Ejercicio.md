@@ -1,6 +1,11 @@
 ### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
-    TU RESPUETA AQUI
+1 incio mandar whats
+2 abrir app
+3 buscar contacto
+4 escribir mensaje
+5 enviar
+final
 
 
 
