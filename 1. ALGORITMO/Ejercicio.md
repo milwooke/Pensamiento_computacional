@@ -24,4 +24,11 @@ final
 
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
-    TU RESPUESTA AQUI
+1 inicio
+2 declarar precio inicial, precio final, porcentaje total, porcentaje de incremento
+3 asignar precio inicial = 20
+4 asignar precio final = 50
+5 asignar precentaje total = 100%
+6 precio final - precio inicio / precio inicial x porcentaje total
+7 mostrar porcentaje de incremento
+8 fin
